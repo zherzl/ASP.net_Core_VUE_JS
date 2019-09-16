@@ -1,0 +1,14 @@
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\bin\Release\netcoreapp2.2\Gallery.Services.Messaging.deps.json
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\bin\Release\netcoreapp2.2\Gallery.Services.Messaging.dll
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\bin\Release\netcoreapp2.2\Gallery.Services.Messaging.pdb
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\bin\Release\netcoreapp2.2\Core.Infrastructure.dll
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\bin\Release\netcoreapp2.2\Core.Model.dll
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\bin\Release\netcoreapp2.2\Core.Model.pdb
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\bin\Release\netcoreapp2.2\Core.Infrastructure.pdb
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\obj\Release\netcoreapp2.2\Gallery.Services.Messaging.csprojAssemblyReference.cache
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\obj\Release\netcoreapp2.2\Gallery.Services.Messaging.csproj.CoreCompileInputs.cache
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\obj\Release\netcoreapp2.2\Gallery.Services.Messaging.AssemblyInfoInputs.cache
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\obj\Release\netcoreapp2.2\Gallery.Services.Messaging.AssemblyInfo.cs
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\obj\Release\netcoreapp2.2\Gallery.Services.Messaging.csproj.CopyComplete
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\obj\Release\netcoreapp2.2\Gallery.Services.Messaging.dll
+D:\Data\GIT\ASP.net_Core_VUE_JS\Gallery.Services.Messaging\obj\Release\netcoreapp2.2\Gallery.Services.Messaging.pdb
