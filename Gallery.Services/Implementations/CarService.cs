@@ -1,5 +1,4 @@
-﻿using Core.Infrastructure.Querying;
-using Core.Model.Models;
+﻿using Core.Model.Models;
 using Core.Model.Repositories;
 using Gallery.Services.Interfaces;
 using Gallery.Services.Messaging.Messaging.CarsService.Get;
@@ -49,11 +48,7 @@ namespace Gallery.Services.Implementations
 
             try
             {
-                Query query = new Query();
-                query.QueryOperator = QueryOperator.And;
-                query.Add(Criterion.Create<Car>(x => x.CarManufacturerId, request.CarManufacturerId, CriteriaOperator.Equal));
-                query.OrderByProperty = new OrderByClause { PropertyName = "Model", Desc = true };
-                //response.Cars = _carsRepo.GetAll().ToList();
+                //response.Cars = _carsRepo.Get()
             }
             catch (Exception ex)
             {

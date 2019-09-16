@@ -12,54 +12,11 @@
     <None Remove="wwwroot\node_modules\**" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Remove="src_old\App.vue" />
-    <None Remove="src_old\assets\logo.png" />
-    <None Remove="src_old\components\HelloWorld.vue" />
-    <None Remove="src_old\main.js" />
-    <None Remove="src_old\router.js" />
-    <None Remove="src_old\store.js" />
-    <None Remove="src_old\views\About.vue" />
-    <None Remove="src_old\views\Home.vue" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="src_old\App.vue">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="src_old\assets\logo.png">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="src_old\components\HelloWorld.vue">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="src_old\main.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="src_old\router.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="src_old\store.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="src_old\views\About.vue">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="src_old\views\Home.vue">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-  </ItemGroup>
-
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
-  </ItemGroup>
-
-
-  <ItemGroup>
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 
 

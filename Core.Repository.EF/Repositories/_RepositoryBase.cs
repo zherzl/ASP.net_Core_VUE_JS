@@ -27,6 +27,7 @@ namespace Core.Repository.EF.Repositories
             return ctx.Set<T>().AsNoTracking();
         }
 
+
         public async Task<T> GetById(TId id)
         {
             return await ctx

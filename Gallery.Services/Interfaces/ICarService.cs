@@ -8,7 +8,7 @@ namespace Gallery.Services.Interfaces
 {
     public interface ICarService
     {
-       GetAllCarsResponse GetAllCars(GetAllCarsRequest request);
+        GetAllCarsResponse GetAllCars(GetAllCarsRequest request);
         GetCarsByConditionResponse GetCarsByCondition(GetCarsByConditionRequest request);
     }
 }

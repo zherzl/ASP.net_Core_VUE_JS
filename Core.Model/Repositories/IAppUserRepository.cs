@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Core.Model.Repositories
 {
-    public interface ICarsRepository : IRepository<Car, int>
+    public interface IAppUserRepository : IRepository<AppUser, int>
     {
 
     }
